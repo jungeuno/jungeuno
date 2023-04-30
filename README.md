@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Jungeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungeuno)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 <!--
 **jungeuno/jungeuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

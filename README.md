@@ -1,11 +1,11 @@
-###Hello, I'm Jungeun Oh
+### Hello, I'm Jungeun Oh
 
 <br />
-
+<!-- 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 <br/>
 
@@ -21,10 +21,10 @@
 
 
 <a href="https://github.com/jungeuno/github-readme-stats">
-  <img align="center" src="https://github.com/jungeuno/2022_Summer_DGIST_Research_Internship" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jungeuno&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/jungeuno/jungeuno.github.io">
-  <img align="center" src="https://github.com/jungeuno/20230220_KISA_FinTech_Academy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jungeuno&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />

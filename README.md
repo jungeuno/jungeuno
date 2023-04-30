@@ -1,4 +1,7 @@
-### Hello, I'm Jungeun Oh  ✨
+
+<p align="center">
+ <h2 align="center">Hello, I'm Jungeun Oh  ✨</h2>
+</p>
 
 <br />
 <!-- 

@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Jungeun Oh" src="./assets/gh-readme-header.png" /></p>
+<p align="center"><alt="Hello, I'm Jungeun Oh" /></p>
 
 <br />
 

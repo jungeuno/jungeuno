@@ -1,6 +1,6 @@
 
 <p align="center">
- <h2 align="center">Hello</h2>
+ <h2 align="center">Hello, I'm Jungeun Oh</h2>
 </p>
 
 <br />
